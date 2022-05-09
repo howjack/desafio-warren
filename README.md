@@ -9,7 +9,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 $ git clone https://github.com/howjack/desafio-warren
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Desafio01 (terminal/cmd)
+$ cd Desafio01
 
 # Execute o script
 $ node index.js
